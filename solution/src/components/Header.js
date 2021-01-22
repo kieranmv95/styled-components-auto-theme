@@ -5,9 +5,10 @@ export default function Header() {
     <header>
       <nav>
         <ul>
-          <li>Services</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li>Documentation</li>
+          <li>Showcase</li>
+          <li>Ecosystem</li>
+          <li>Releases</li>
         </ul>
       </nav>
     </header>
